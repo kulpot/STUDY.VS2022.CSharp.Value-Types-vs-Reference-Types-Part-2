@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Value Types vs Reference Types Part 2", "Value Types vs Reference Types Part 2\Value Types vs Reference Types Part 2.csproj", "{DEFE62A2-FBE9-4603-B264-7F3FA40E3017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFE62A2-FBE9-4603-B264-7F3FA40E3017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFE62A2-FBE9-4603-B264-7F3FA40E3017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFE62A2-FBE9-4603-B264-7F3FA40E3017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFE62A2-FBE9-4603-B264-7F3FA40E3017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4729CFD-2C41-49BD-B503-77DBADD2A864}
+	EndGlobalSection
+EndGlobal
